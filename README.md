@@ -1,2 +1,2 @@
 # Risk-Server
-Credits: ChatGPT, Glaycon Cezarotto, (Put yalls name here)
+Credits: ChatGPT, Glaycon Cezarotto, Edgar Torres, (Put yalls name here)
